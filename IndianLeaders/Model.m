@@ -22,5 +22,4 @@ static Model *instance = nil;
     }
     return instance;
 }
-
 @end
