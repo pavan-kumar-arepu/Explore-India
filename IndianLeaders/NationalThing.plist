@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NationalThingDict</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>National Emblem of India</string>
+			<key>image</key>
+			<string>Emblem</string>
+			<key>description</key>
+			<string>National emblem</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Indian lotus</string>
+			<key>image</key>
+			<string>lotus</string>
+			<key>description</key>
+			<string>National flower</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mango</string>
+			<key>image</key>
+			<string>mango</string>
+			<key>description</key>
+			<string>National fruit</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ganga</string>
+			<key>image</key>
+			<string>ganga</string>
+			<key>description</key>
+			<string>National river</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Indian banyan</string>
+			<key>image</key>
+			<string>banyan</string>
+			<key>description</key>
+			<string>National tree</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Royal Bengal tiger</string>
+			<key>image</key>
+			<string>Tiger</string>
+			<key>description</key>
+			<string>National animal</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Indian peacock</string>
+			<key>image</key>
+			<string>Peacock</string>
+			<key>description</key>
+			<string>National bird</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Indian Rupee</string>
+			<key>image</key>
+			<string>rupee</string>
+			<key>description</key>
+			<string>National currency</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Indian Elephant</string>
+			<key>image</key>
+			<string>Elephant</string>
+			<key>description</key>
+			<string>National Heritage Animal</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>King Cobra</string>
+			<key>image</key>
+			<string>KingCobra</string>
+			<key>description</key>
+			<string>National Reptile</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Indian Flag</string>
+			<key>image</key>
+			<string>IndiaFlag</string>
+			<key>description</key>
+			<string>National Flag</string>
+		</dict>
+	</array>
+</dict>
+</plist>

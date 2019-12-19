@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>monumentsDict</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Rama Setu</string>
+			<key>description</key>
+			<string>Adam&apos;s Bridge, also known as Rama&apos;s Bridge or Rama Setu is a chain of limestoneshoals, between Pamban Island, also known as Rameswaram Island, off the south-eastern coast of Tamil Nadu, India, and Mannar Island, off the north-western coast of Sri Lanka. Geological evidence suggests that this bridge is a former land connection between India and Sri Lanka.
+
+The bridge is 50 km (30 mi) long and separates the Gulf of Mannar (southwest) from the Palk Strait (northeast). Some of the sandbanks are dry and the sea in the area is very shallow, being only 1 to 10 metres (3 to 30 ft) deep in places, which hinders navigation. It was reportedly passable on foot up to the 15th century until storms deepened the channel: temple records seem to say that Adam’s Bridge was completely above sea level until it broke in a cyclone in 1480. 
+</string>
+			<key>wikiLink</key>
+			<string>https://en.wikipedia.org/wiki/Adam%27s_Bridge</string>
+			<key>image</key>
+			<string>RamaSetu</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Charminar</string>
+			<key>description</key>
+			<string>The Charminar, constructed in 1591 CE, is a monument and mosque located in Hyderabad, Telangana, India. The landmark has become a global icon of Hyderabad, listed among the most recognised structures of India. The Charminar is situated on the east bank of Musi river. To the west lies the Laad Bazaar, and to the southwest lies the richly ornamented granite Makkah Masjid. It is listed as an archaeological and architectural treasure on the official &quot;List of Monuments&quot; prepared by the Archaeological Survey of India. 
+The English name is a translation and combination of the Urdu words Chār and Minar or meenar, translating to &quot;Four Towers&quot;; the eponymous towers are ornate minarets attached and supported by four grand arches.
+Some of the popular myths that are recorded in accord with the monument&apos;s architectural appearance are as follows.
+The Archaeological Survey of India (ASI), the current caretaker of the structure, mentions in its records that, &quot;There are various theories regarding the purpose for which Charminar was constructed. However, it is widely accepted that charminar was built at the centre of the city, to commemorate the eradication of plague&quot;, a deadly disease which was wide spread at that time as Muhammad Quli Qutb Shah had prayed for the end of a plague that was ravaging his city and vowed to build a Mosque at the very place where he prayed. According to Jean de Thévenot, a French traveller of the 17th century whose narration was complemented with the available Persian texts, the Charminar was constructed in the year 1591 CE, to commemorate the beginning of the second Islamic millennium year (1000 AH). The event was celebrated far and wide in the Islamic world, thus Qutb Shah founded the city of Hyderabad to celebrate the event and commemorate it with the construction of this building.</string>
+			<key>wikiLink</key>
+			<string>https://en.wikipedia.org/wiki/Charminar</string>
+			<key>image</key>
+			<string>Charminar</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mysore Palace</string>
+			<key>description</key>
+			<string>The Palace of Mysore is a historical palace in the city of Mysore in Karnataka, southern India. It is the official residence and seat of the Wodeyars — the rulers of Mysore, the royal family of Mysore, who ruled the princely state from 1399 to 1950. The palace houses two durbar halls (ceremonial meeting halls of the royal court) and incorporates a mesmerising and gigantic array of courtyards, gardens, and buildings. The palace is in the central region of inner Mysore, facing the Chamundi Hills eastward.
+Mysore is commonly described as the City of Palaces. There are about seven palaces inclusive of this; however, Mysore Palace refers specifically to the one within the Old Fort. Built by the Maharaja Rajarshi His Highness Krishnarajendra Wadiyar IV, Mysore Palace is now one of the most famous tourist attractions in India, after the Taj Mahal, and has more than 6 million visitors annually.</string>
+			<key>wikiLink</key>
+			<string>https://en.wikipedia.org/wiki/Mysore_Palace</string>
+			<key>image</key>
+			<string>MysorePalace</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Buland Darwaza</string>
+			<key>description</key>
+			<string>The Buland Darwaza is made of red and buff sandstone, decorated by white and black marble and is higher than the courtyard of the mosque. The Buland Darwaza is symmetrical and is topped by large free standing kiosks, which are the chhatris. It also has at top center the Buland Darwaza style roof terrace edge gallery-kiosks on the roof, stylized buckler-battlements, small minar-spires, and inlay work with white and black marble. On the outside a long flight of steps sweeps down the hill giving the gateway additional height. It is 40 metres high and 50 metres from the ground. The total height of the structure is about 54 metres from the ground level. It is a 15-storied high gateway acting as the southern entrance of the city of Fatehpur Sikri. The approach to the gate consists of 42 steps. It is semi octagonal in plan and two smaller triple-storeyed wings on either side. It has three kiosks on its top surrounded by thirteen smaller domed kiosks. There are smaller turrets surrounding the gateway.The expanse is broken by arched niches, small chhatries and marble highlights. It highlights the courtyard of the Jama Masjid. The principal arch stands in the centre of three projecting sides and topped by a dome. The central arch is broken into three tiers with rows of smaller arches and flat brackets.</string>
+			<key>wikiLink</key>
+			<string>https://en.wikipedia.org/wiki/Buland_Darwaza</string>
+			<key>image</key>
+			<string>BulandDarwaza.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Harmandir Sahib</string>
+			<key>description</key>
+			<string>Sri Harmandir Sahib (The abode of God)  also Sri Darbar Sahib (Punjabi pronunciation) and informally referred to as the &quot;Golden Temple&quot;,is the holiest Gurdwara of Sikhism, located in the city of Amritsar, Punjab, India. Amritsar (literally, the tank of nectar of immortality) was founded in 1577 by the fourth Sikh guru, Guru Ram Das. The fifth Sikh Guru,Guru Arjan, designed the Harmandir Sahib to be built in the centre of this holy tank, and upon its construction, installed the Adi Granth, the holy scripture of Sikhism, inside the Harmandir Sahib. The Harmandir Sahib complex is also home to the Akal Takht (the throne of the timeless one, constituted by the Sixth Guru, Guru Hargobind). While the Harmandir Sahib is regarded as the abode of God&apos;s spiritual attribute, the Akal Takht is the seat of God&apos;s temporal authority.
+
+The construction of Harmandir Sahib was intended to build a place of worship for men and women from all walks of life and all religions to come and worship God equally. Accordingly, as a gesture of this non-sectarian universalness of Sikhism, Guru Arjan had specially invited Muslim Sufi Saint, Sai Mian Mir to lay the foundation stone of the Harmandir Sahib. The four entrances (representing the four directions) to get into the Harmandir Sahib also symbolise the openness of the Sikhs towards all people and religions. Over 100,000 people visit the holy shrine daily for worship, and also partake jointly in the free community kitchen and meal (Langar) regardless of any distinctions, a tradition that is a hallmark of all Sikh Gurudwaras.
+</string>
+			<key>wikiLink</key>
+			<string>https://en.wikipedia.org/wiki/Harmandir_Sahib</string>
+			<key>image</key>
+			<string>HarmandirSahib</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Brihadeeswarar Temple</string>
+			<key>description</key>
+			<string>Brihadeshwara Temple is a Hindu temple dedicated to Shiva located in Thanjavur in the Indian state of Tamil Nadu. It is also known as RajaRajeswara Temple Rajarajeswaram and Brihadeshwara Temple. It is one of the largest temples in India and is an example of Tamil architecture during the Chola period. Built by Raja Raja Chola I and completed in 1010 CE, the temple turned 1000 years old in 2010.The architect and engineer of the temple, Kunjara Mallan Raja Raja Perumthachan is revered today as a father figure to all craftsmen in his homeland of present-day Central Kerala. The temple is part of the UNESCO World Heritage Site known as the &quot;Great Living Chola Temples&quot;, with the other two being the Brihadeeswarar Temple, Gangaikonda Cholapuram and Airavatesvara temple.
+
+The temple stands amidst fortified walls that were probably added in the 16th century. The vimanam (temple tower) is 100 ft (30 m) high and is the tallest in the world. The Kumbam (the apex or the bulbous structure on the top) weighs around 80 tons. There is a big statue of Nandi(sacred bull), carved out of a single rock measuring about 16 ft (4.9 m) long and 13 ft (4.0 m) high at the entrance. The entire temple structure is made out of granite, the nearest sources of which are about 60 km to the west of temple. The temple is one of the most visited tourist attractions in Tamil Nadu.
+
+
+
+</string>
+			<key>wikiLink</key>
+			<string>https://en.wikipedia.org/wiki/Brihadeeswarar_Temple</string>
+			<key>image</key>
+			<string>BrihadeeswararTemple</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lotus Temple</string>
+			<key>description</key>
+			<string>The Lotus Temple, located in New Delhi, India, is a Bahá&apos;í House of Worship completed in 1986. Notable for its flowerlike shape, it serves as the Mother Temple of the Indian subcontinent and has become a prominent attraction in the city. The Lotus Temple has won numerous architectural awards and been featured in hundreds of newspaper and magazine articles. Like all Bahá&apos;í Houses of Worship, the Lotus Temple is open to all, regardless of religion or any other qualification. The building is composed of 27 free-standing marble-clad &quot;petals&quot; arranged in clusters of three to form nine sides, with nine doors opening onto a central hall with height of slightly over 40 metres  and a capacity of 2,500 people. A 2001 CNN report referred to it as the most visited building in the world. </string>
+			<key>wikiLink</key>
+			<string>https://en.wikipedia.org/wiki/Lotus_Temple</string>
+			<key>image</key>
+			<string>LotusTemple</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chhatrapati Shivaji Terminus</string>
+			<key>description</key>
+			<string>Chhatrapati Shivaji Terminus (CST), formerly Victoria Terminus (VT), is a UNESCO World Heritage Site and an historic railway station in Mumbai, Maharashtra, India which serves as the headquarters of the Central Railways. Designed by Frederick William Stevens with influences from Victorian Italianate Gothic Revival architecture and traditional Mughal buildings, the station was built in 1887 in the Bori Bunder area of Mumbai to commemorate the Golden Jubilee of Queen Victoria. The new railway station was built on the location of the Bori Bunder Station and is one of the busiest railway stations in India, serving as a terminal for both long-distance trains and commuter trains of the Mumbai Suburban Railway. The station&apos;s name was changed to its present one in March 1996 and it is now known simply as CST (or CSTM).</string>
+			<key>wikiLink</key>
+			<string>https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Terminus_railway_station</string>
+			<key>image</key>
+			<string>ChhatrapatiShivajiTerminus</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Qutb Minar</string>
+			<key>description</key>
+			<string>Qutb Minar, (also spelled Qutub Minar) at 72 meters, is the tallest brick minaret in the world. Qutb Minar, along with the ancient and medieval monuments surrounding it, form the Qutb Complex, which is a UNESCO World Heritage Site.  The tower is located in the Mehrauli area of Delhi,India.The Minaret of Jam a UNESCO World Heritage Site in western Afghanistan is thought to have been a direct inspiration for the Qutb Minar in Delhi, which was also built by the Ghorid Dynasty. Made of red sandstone and marble, Qutb Minar is a 73-meter (240 feet) tall tapering tower with a diameter measuring 14.32 meters (47 feet) at the base and 2.75 meters (9 feet) at the peak.Inside the tower, a circular staircase with 379 steps leads to the top. Qutb Minar station is the closest station on the Delhi Metro.
+In 1200 AD, Qutb al-Din Aibak, the founder of the Delhi Sultanate started construction of the Qutb Minar. In 1220, Aibak&apos;s successor and son-in-law Iltutmish added three storeys to the tower. In 1369, lightning struck the top storey, destroying it completely. So, Firoz Shah Tughlaq carried out restoration work replacing the damaged storey with two new storeys every year, made of red sandstone and white marble. 
+</string>
+			<key>wikiLink</key>
+			<string>https://en.wikipedia.org/wiki/Qutb_Minar</string>
+			<key>image</key>
+			<string>QutbMinar</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Taj Mahal</string>
+			<key>description</key>
+			<string>The Taj Mahal  more often for Crown of Palaces is an ivory-white marble mausoleum on the south bank of theYamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan (reigned 1628–1658), to house the tomb of his favourite wife, Mumtaz Mahal. The tomb is the centrepiece of a 42-acre complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.
+Construction of the mausoleum was essentially completed in 1643 but work continued on other phases of the project for another 10 years. The Taj Mahal complex is believed to have been completed in its entirety in 1653 at a cost estimated at the time to be around 32 million rupees, which in 2015 would be approximately 52.8 billion rupees (US$827 million). The construction project employed some 20,000 artisans under the guidance of a board of architects led by the court architect to the emperor, Ustad Ahmad Lahauri.
+The Taj Mahal was designated as a UNESCO World Heritage Site in 1983 for being &quot;the jewel of Muslim art in India and one of the universally admired masterpieces of the world&apos;s heritage&quot;. Described by Nobel laureate Rabindranath Tagore as &quot;the tear-drop on the cheek of time&quot;, it is regarded by many as the best example of Mughal architecture and a symbol of India&apos;s rich history. The Taj Mahal attracts 7–8 million visitors a year. In 2007, it was declared a winner of the New7Wonders of the World (2000–2007) initiative.</string>
+			<key>wikiLink</key>
+			<string>https://en.wikipedia.org/wiki/Taj_Mahal</string>
+			<key>image</key>
+			<string>TajMahal</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mahabalipuram</string>
+			<key>description</key>
+			<string>Mamallapuram, also known as Mahabalipuram, is a town in Kancheepuram district in the Indian state of Tamil Nadu. It is around 60 km south from the city of Chennai. It is an ancient historic town and was a bustling seaport during the time of Periplus (1st century CE) and Ptolemy (140 CE). Ancient Indian traders who went to countries of South East Asia sailed from the seaport of Mahabalipuram.
+
+By the 7th century it was a port city of South Indian dynasty of the Pallavas. It has a group of sanctuaries, which was carved out of rock along the Coromandel coast in the 7th and 8th centuries: rathas (temples in the form of chariots), mandapas (cave sanctuaries), giant open-air rock reliefs such as the famous Descent of the Ganges, and the Shore Temple, with thousands of sculptures to the glory of Shiva. The Group of Monuments at Mahabalipuram has been classified as a UNESCO World Heritage Site.
+</string>
+			<key>wikiLink</key>
+			<string>https://en.wikipedia.org/wiki/Mahabalipuram</string>
+			<key>image</key>
+			<string>Mahabalipuram</string>
+		</dict>
+	</array>
+</dict>
+</plist>

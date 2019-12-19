@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1e50c2f4-9477-40be-903c-33945bd74c72++7386",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "1e50c2f4-9477-40be-903c-33945bd74c72++7386" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1e50c2f4-9477-40be-903c-33945bd74c72++7386" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AA26711A-02EB-4F0F-A2AB-01F5F72C52C8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1e50c2f4-9477-40be-903c-33945bd74c72++7386" : "Desktop\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Explore India",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Users Folder\/Nilesh\/Explore India_Aug14Morning\/Explore India.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/172.25.69.100\/HydRepoNew",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1e50c2f4-9477-40be-903c-33945bd74c72++7386"
+    }
+  ]
+}
